@@ -1,0 +1,9 @@
+{
+  "homeserver_url": "https://matrix.rmf44.xyz",
+  "packs": [
+    "MrShark.json",
+    "Pierluigi_Collina.json",
+    "scalar-stakey.json",
+    "scalar-loading_artist.json"
+  ]
+}
